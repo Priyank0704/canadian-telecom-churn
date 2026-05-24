@@ -3,7 +3,6 @@
 ![CI](https://github.com/Priyank0704/canadian-telecom-churn/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![Docker](https://img.shields.io/badge/docker-ready-2496ED)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 End-to-end customer churn analytics for the Canadian telecom market, with an
 interactive retention ROI calculator that quantifies the business case for

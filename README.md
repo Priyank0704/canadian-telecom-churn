@@ -1,6 +1,6 @@
 # Canadian Telecom Churn & Retention ROI Analyzer
 
-![CI](https://github.com/YOUR_USERNAME/canadian-telecom-churn/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Priyank0704/canadian-telecom-churn/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![Docker](https://img.shields.io/badge/docker-ready-2496ED)
 ![License](https://img.shields.io/badge/license-MIT-green)

@@ -1,0 +1,44 @@
+# Python virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Python cache and compiled
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+
+# Data (raw and processed)
+data/
+
+# Trained models
+models/
+
+# Generated reports and figures
+reports/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment files
+.env
+.env.local
+
+# Optuna study databases
+*.db
+
+# Logs
+*.log
